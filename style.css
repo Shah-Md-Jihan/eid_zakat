@@ -95,3 +95,23 @@ p {
     width: 80%;
     padding-left: 35px;
 }
+
+.image-gallery {
+    padding: 10px 75px;
+}
+
+.gallery {
+    background-color: rgb(146, 95, 18);
+    padding: 10px 10px;
+    margin: 0px 5px;
+    border-radius: 10px;
+}
+
+.gallery:hover {
+    box-shadow: 10px 20px 40px grey;
+    cursor: pointer;
+}
+
+.gallery img {
+    width: 100%;
+}
