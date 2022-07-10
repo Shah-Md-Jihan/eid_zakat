@@ -72,3 +72,26 @@ p {
 .content img {
     width: 100%;
 }
+
+.article-heading {
+    padding: 10px 75px;
+    text-align: center;
+}
+
+.article-heading p {
+    text-align: center;
+}
+
+.con-img {
+    width: 20%;
+}
+
+.con-img img {
+    padding-top: 26px;
+    width: 100%;
+}
+
+.con-text {
+    width: 80%;
+    padding-left: 35px;
+}
